@@ -4,6 +4,7 @@ Little Lemon is a web application built using Django and Django REST Framework.
 It provides API endpoints and admin functionality for managing restaurant-related data.
 
 🛠 Technologies Used
+```sdss```
 
 Python 3.x
 
