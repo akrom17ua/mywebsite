@@ -1,56 +1,36 @@
-Project Description
+# My Portfolio Website
 
-Little Lemon is a web application built using Django and Django REST Framework.
-It provides API endpoints and admin functionality for managing restaurant-related data.
+## About the Project
 
-🛠 Technologies Used
-```sdss```
+A portfolio website built with **Django** and **Bootstrap** to showcase my profile and projects.  
+It includes user‑friendly navigation, responsive design, and a clean layout to highlight real work.
 
-Python 3.x
+## Features
 
-Django
+- ✅ Profile page with personal introduction  
+- ✅ Projects listing page with image cards  
+- ✅ Project detail page with full image and description  
+- ✅ Bootstrap styling for responsive design  
+- 📌 Ready for future API integration with Django REST Framework
 
-Django REST Framework
+## Technologies Used
 
-SQLite (default database)
+- Django  
+- Bootstrap 5  
+- SQLite (default)  
+- HTML / CSS / JavaScript  
+- Pillow (for image uploads)
 
-🚀 Getting Started
-✅ Prerequisites
+## Getting Started
 
-Make sure you have installed:
+### Prerequisites
 
-Python 3.x
+- Python 3.x  
+- pip / venv
 
-pip (Python package installer)
+### Installation
 
-pipenv (recommended for virtual environment management)
-
-You can check your Python version with:
-
-python --version
-⚙️ Installation
-1️⃣ Clone the repository
-git clone https://github.com/akrom17ua/LittleLemon.git
-cd LittleLemon
-2️⃣ Install pipenv (if not installed)
-pip install pipenv
-3️⃣ Install project dependencies
-pipenv install
-4️⃣ Activate virtual environment
-pipenv shell
-▶️ Running the Application
-Apply database migrations
-python manage.py migrate
-Create a superuser (for admin panel access)
-python manage.py createsuperuser
-Run the development server
-python manage.py runserver
-
-Now open your browser and go to:
-
-http://127.0.0.1:8000/
-🔐 Admin Panel
-
-Access the Django admin panel at:
-
-http://127.0.0.1:8000/admin/
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/yourusername/your‑portfolio.git
+   cd your‑portfolio
